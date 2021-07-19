@@ -44,7 +44,7 @@ THEN I exit the application, and the HTML is generated
 
 ## Usage
 To use the repo the user would need to fork the repo and run npm i to install the dependencies. The the user will have to run index.js from the command line to begin the prompt! A video tutorial will be uploaded here for futher assitance on the usage.
-
+[Link to usage video here!](https://drive.google.com/file/d/1GlydXf9InGbM9WASQLZnvYrlnmjtmWj6/view)
 ## Installation
 npm i
 
