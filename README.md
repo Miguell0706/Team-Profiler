@@ -7,8 +7,6 @@ This project allows the user to be able to answer questions from a prompt relate
 ## Table of Contents: 
 *[Installation](#installation)
 
-*[Contribution](#contribute)
-
 *[Description](#description)
 
 *[Test](#test)
@@ -41,8 +39,8 @@ THEN I exit the application, and the HTML is generated
 
 ```
 
-## Contribution
-No contribution necessary 
+![Screenshot (1758)](https://user-images.githubusercontent.com/82692900/126107554-ec7ba4cf-4e13-43c7-a200-b52a49ea01eb.png)
+
 
 ## Usage
 To use the repo the user would need to fork the repo and run npm i to install the dependencies. The the user will have to run index.js from the command line to begin the prompt! A video tutorial will be uploaded here for futher assitance on the usage.
@@ -56,7 +54,9 @@ Open the command line and
 npm run test  
 ```
 ## Sample Html Generated :
-https://miguell0706.github.io/Team-Profiler/
+[Link to the sample](https://miguell0706.github.io/Team-Profiler/)
+
+
 ## Questions
 If you have any questions, you can contact me at Miguellozano3757@gmail.com.
 
