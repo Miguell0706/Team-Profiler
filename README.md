@@ -55,7 +55,8 @@ Open the command line and
 ```
 npm run test  
 ```
-
+## Sample Html Generated :
+https://miguell0706.github.io/Team-Profiler/
 ## Questions
 If you have any questions, you can contact me at Miguellozano3757@gmail.com.
 
